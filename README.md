@@ -23,10 +23,11 @@ const wp_theme_route = 'wp-content/themes/our-theme';
 ```
 
 ## How to use
-Clone the repository, open in VSCode (or any editor of your choice), open a new integrated terminal and run 'npm i' to install the dependencies
-
-next run 'npm run dev' to start the dev server where you can build out your react app.
-
-Once complete. Run 'npm run build', this will generate the files that can then be used/copied into your wordpress website!
+- Set up your react three fiber project as you would normally do using Vite.js (get started here: https://vitejs.dev/guide/)
+- Copy the settings over to the vite.config.js file
+- Make adjustments to the path url (as per above)
+- When building the files, your asset paths will replicate the same paths as your wordpress project
+- You can then drag the asset folder over to your wordpress theme, and link up the javascript files accordinly
+- FULL BREAKDOWN TUTORIAL on youtube for any that wish to understand more about the workflow / solution: https://youtu.be/1Mx-IzU4sW4
 
 
