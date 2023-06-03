@@ -1,5 +1,5 @@
+![R3F Wordpress Tutorial](https://github.com/lilsugsy/React_Three_Fiber_For_Wordpress/assets/49952277/2fd01087-f1d9-48fc-8203-2aea815529f4)[(R3F Wordpress Tutorial)](https://youtu.be/1Mx-IzU4sW4)
 
-![sddefault](https://github.com/lilsugsy/React_Three_Fiber_For_Wordpress/assets/49952277/2fd01087-f1d9-48fc-8203-2aea815529f4)
 # How to use React Three Fiber For Wordpress Tutorial
 Watch the tutorial here: https://youtu.be/1Mx-IzU4sW4
 
